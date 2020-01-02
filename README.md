@@ -1,6 +1,6 @@
 # GCI Image Manipulation
 
-Program to resize images to 400 by 400 or less, and then saving them to lower than 64kb
+Program to resize images to 400 by 400 or less, and then save them to lower than 64kb
 
 # Usage
 
