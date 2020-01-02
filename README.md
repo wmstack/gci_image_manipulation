@@ -1,6 +1,6 @@
 # GCI Image Manipulation
 
-Try to get an image to a specific size by changing the quality
+Program to resize images to 400 by 400 or less, and then saving them to lower than 64kb
 
 # Usage
 
