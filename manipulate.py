@@ -37,7 +37,6 @@ def save_image_64kb(image, path, buffer):
 
         #check if size is less than 64kb
         if img_size<= 64e3:
-            print('found',mid,img_size)
             low = mid
         else:
             high=mid-1
